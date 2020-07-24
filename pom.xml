@@ -93,7 +93,8 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
+    	<distributionManagement>
+
 	
 	    <repository>
 	      <id>nexus</id>
